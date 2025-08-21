@@ -1,4 +1,4 @@
-# Growth Charts for Genetic Disorders in Pediatric Patients Derived from Electronic Health Records
+# An EHR-Based Framework for Modeling Growth Curves to Refine and Expand the Phenotypic Spectrum of Genetic Disorders
 
 This repository provides code to reproduce the growth curve modeling and bootstrap analysis described in our paper. 
 
