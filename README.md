@@ -1,6 +1,4 @@
-# An EHR-Based Framework for Modeling Growth Curves to Refine and Expand the Phenotypic Spectrum of Genetic Disorders
-
-This repository provides code to reproduce the growth curve modeling and bootstrap analysis described in our paper. 
+# An EHR-Based Framework for Modeling Growth Curves and Constructing Growth Centile Charts for Genetic Disorders
 
 ---
 
